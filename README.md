@@ -135,8 +135,8 @@ X - NCERT WOODLANDS HOUSE SCHOOL
 Bachelor of Technology - Computer Science and Engineering
 SSM College of Engineering and Technology
 Affilated with - University of Kashmir
-2021 – 2025
-INTERNSHIPS in web-d and python   |   CETPA INFO TECH PVT. LMT   |  NOIDA UP DELHI 
+2021 – 2025         
+INTERNSHIPS  --   CETPA INFO TECH PVT. LMT   |  NOIDA UP DELHI 
 
 Completed a B.Tech in Computer Science and Engineering with academic and practical exposure to programming, software development, web technologies, artificial intelligence, machine learning, data analysis, and computer science fundamentals.
 Academic work included the Analysis of Disease-Gene Association Using Machine Learning project along with practical development work in Python and web technologies.
