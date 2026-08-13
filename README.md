@@ -1,4 +1,4 @@
-        FAIQ AYOOB MIR
+  FAIQ AYOOB MIR
 Junior Software Engineer | B.TECH
 
 I'm a Computer Science and Engineering graduate with hands-on experience in software development, web development, Python programming, artificial intelligence, machine learning, automation, data analysis, and AI-assisted development workflows.
