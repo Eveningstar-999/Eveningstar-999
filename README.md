@@ -86,6 +86,7 @@ Developed Python-based automation solutions for practical tasks and repetitive w
 Worked with Python programming logic, scripting, data handling, debugging, and automation while developing solutions designed to simplify tasks and improve workflow efficiency.
 
 🛠️ Technical Skills
+
 Programming
 Python
 React
@@ -123,16 +124,17 @@ Proposal Pipelines
 
 🎓 Education
 
+X - NCERT WOODLANDS HOUSE SCHOOL 
 Bachelor of Technology - Computer Science and Engineering
-
 SSM College of Engineering and Technology
-University of Kashmir
+Affilated with - University of Kashmir
 2021 – 2025
 
 Completed a B.Tech in Computer Science and Engineering with academic and practical exposure to programming, software development, web technologies, artificial intelligence, machine learning, data analysis, and computer science fundamentals.
 Academic work included the Analysis of Disease-Gene Association Using Machine Learning project along with practical development work in Python and web technologies.
 
 📚 Training & Certifications
+
 
 Industrial Training in Web Designing
 Python Programming Training
@@ -156,6 +158,7 @@ Intelligent Systems
 
 🎯 Career Objective
 
+
 I continuously explore new technologies and development approaches through hands-on experimentation and projects.
 My current learning interests include improving my understanding of AI agents, Generative AI, AI-assisted development, Python, machine learning, automation, web technologies, software engineering workflows, and intelligent software systems.
 I enjoy learning by building, testing ideas, understanding how different technologies work together, identifying problems, experimenting with possible solutions, and improving implementations through practical work.
@@ -164,7 +167,8 @@ I am particularly interested in opportunities involving AI agents, artificial in
 My long-term interest is in building practical intelligent software products and exploring innovative ways in which artificial intelligence can improve everyday business and technical processes.
 
 📊 Quick Profile
-Category	Details
+
+
 🎓 Education	B.Tech in Computer Science & Engineering
 💻 Primary Focus	Software Engineering
 🤖 AI	Artificial Intelligence, Generative AI, AI Agents, Machine Learning
