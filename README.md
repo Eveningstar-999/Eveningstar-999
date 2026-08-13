@@ -1,4 +1,8 @@
-<h1 align="center">FAIQ AYOOB MIR</h1>
+<h1 align="center">
+  <a href="https://github.com/Eveningstar-999">
+    <span style="color:#0969DA;">FAIQ AYOOB MIR</span>
+  </a>
+</h1>
 
 <p align="center">
   <strong>Junior Software Engineer | B.Tech</strong>
