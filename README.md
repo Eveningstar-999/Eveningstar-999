@@ -1,16 +1,18 @@
-## Hi there 👋
+# FAIQ AYOOB MIR
 
-<!--
-**Eveningstar-999/Eveningstar-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Engineer | B.TECH
 
-Here are some ideas to get you started:
+Computer Science & Engineering graduate focused on building software, AI-powered solutions, and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+Python • JavaScript • HTML • CSS • AI • AI Agents • Git • GitHub • Docker
+
+### 🚀 Featured Projects
+- Pulseya
+- AI Agent Workflow Automation
+- Disease-Gene Association Using Machine Learning
+- Responsive Web Applications
+- Python Automation
+
+### 🔗 Connect
+[LinkedIn]- www.linkedin.com/in/eveningstar777
